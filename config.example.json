@@ -1,0 +1,11 @@
+{
+  "BOT_TOKEN": "YOUR_BOT_TOKEN",
+  "CHAT_ID": -1001234567890,
+  "PLAYLISTS_DIR": "./Playlists",
+  "CSV_DIR": "./Playlists_CSV",
+  "DELAY_SECONDS": 5,
+  "AUDIO_FORMAT": "mp3",
+  "NO_CSV_FOLDERS": [],
+  "ANIME_DIR": "E:\\path\\to\\Openings - Endings-OSTs",
+  "ANIME_TOPIC_NAME": "Anime Openings"
+}

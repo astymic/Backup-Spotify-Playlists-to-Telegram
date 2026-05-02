@@ -1,0 +1,19 @@
+# Конфиг с токенами — НЕ коммитить
+config.json
+
+# Скачанные файлы
+downloads/
+test_downloads/
+Playlists/
+Playlists_CSV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Временные файлы
+*.tmp
+debug_playwright.py
